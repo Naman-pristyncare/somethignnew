@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Badcomponent from './Badcomponent';
-import BasicInput from './components/basic-input';
 import ErrorBoundary from './ErrorBoundary';
 
 class App extends Component {
